@@ -26,3 +26,17 @@ traffic systems.
 | [Rwanda Landslide Inventory](https://github.com/theoneste2060/rwanda_landslide_inventory) | Compiled landslide datasets (CSV/GeoJSON/KML), maps and risk reports | GIS · Open data |
 | [FarmerConnect](https://github.com/theoneste2060/FarmerConnect-blockchain) | Blockchain farmer marketplace with Solidity smart contracts | Solidity · Hardhat |
 | [Student Registration (microservices)](https://github.com/theoneste2060/24RP08786---Students-online-registration-system) | Microservices with Docker, Kubernetes, Jenkins and GitHub Actions | DevOps · Node.js |
+
+## 🌐 Client work
+
+Live websites I've built for Rwandan businesses and professionals:
+
+| Website | Client |
+| --- | --- |
+| [geotesta.rw](https://www.geotesta.rw) | GeoTesta Ltd: RSB-designated geotechnical testing laboratory |
+| [jeovaslab.rw](https://www.jeovaslab.rw) | JEO-VAS Lab: geotechnical engineering |
+| [spfjointventure.rw](https://www.spfjointventure.rw) | SPF Joint Ventures (SPF-Ikigega): certified seed potato |
+| [ltriplegreentech.rw](https://www.ltriplegreentech.rw) | L Triple Green Tech: greenhouse systems & agri-tech |
+| [nexvireon.rw](https://www.nexvireon.rw) | NexVireon LTD: digital transformation |
+| [rokiconstruction.rw](https://www.rokiconstruction.rw) | ROKI: green landscaping & sustainable development |
+| [niyibizijeanpierre.rw](https://www.niyibizijeanpierre.rw) | Personal site of NIYIBIZI Jean Pierre |
