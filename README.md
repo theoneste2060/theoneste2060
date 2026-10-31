@@ -42,3 +42,9 @@ Live websites I've built for Rwandan businesses and professionals:
 | [onepointlogistics.rw](https://www.onepointlogistics.rw) | OnePoint Logistics Ltd: event & logistics support in Kigali |
 | [rokiconstruction.rw](https://www.rokiconstruction.rw) | ROKI: green landscaping & sustainable development |
 | [niyibizijeanpierre.rw](https://www.niyibizijeanpierre.rw) | Personal site of NIYIBIZI Jean Pierre |
+
+## 📫 Connect
+
+[![Instagram](https://img.shields.io/badge/Instagram-@theoneste.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theoneste.dev/)
+
+Weekly tips on SEO, AI search (GEO) and websites for businesses in Rwanda.
