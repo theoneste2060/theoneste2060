@@ -38,6 +38,7 @@ Live websites I've built for Rwandan businesses and professionals:
 | [spfjointventure.rw](https://www.spfjointventure.rw) | SPF Joint Ventures (SPF-Ikigega): certified seed potato |
 | [ltriplegreentech.rw](https://www.ltriplegreentech.rw) | L Triple Green Tech: greenhouse systems & agri-tech |
 | [nexvireon.rw](https://www.nexvireon.rw) | NexVireon LTD: digital transformation |
+| [galileagloballogistics.rw](https://www.galileagloballogistics.rw) | Galilea Global Logistics: sea & air cargo, customs clearance and warehousing |
 | [onepointlogistics.rw](https://www.onepointlogistics.rw) | OnePoint Logistics Ltd: event & logistics support in Kigali |
 | [rokiconstruction.rw](https://www.rokiconstruction.rw) | ROKI: green landscaping & sustainable development |
 | [niyibizijeanpierre.rw](https://www.niyibizijeanpierre.rw) | Personal site of NIYIBIZI Jean Pierre |
