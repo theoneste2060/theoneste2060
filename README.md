@@ -7,6 +7,7 @@ tools for agriculture, health and education: from crop-recommendation devices to
 traffic systems.
 
 - 🌍 Based in Kigali, Rwanda
+- 🌐 Portfolio: [theoneste-dev.vercel.app](https://theoneste-dev.vercel.app)
 - 🌱 Focus: AgriTech, AI/ML, IoT, and fast, SEO-ready business websites
 - 🎓 Rwanda Polytechnic
 
@@ -45,6 +46,7 @@ Live websites I've built for Rwandan businesses and professionals:
 
 ## 📫 Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-theoneste--dev.vercel.app-0B1F33?style=for-the-badge&logo=vercel&logoColor=white)](https://theoneste-dev.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-@theoneste.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theoneste.dev/)
 
 Tips on SEO, AI search (GEO) and websites for businesses in Rwanda.
