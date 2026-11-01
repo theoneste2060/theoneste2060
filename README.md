@@ -19,6 +19,7 @@ traffic systems.
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| [Ijisho](https://github.com/theoneste2060/ijisho) 🆕 | Offline "small AI" that checks bean leaves for angular leaf spot and bean rust from a phone photo, in English and Kinyarwanda. [Try it](https://ijisho-amber.vercel.app) | PyTorch · ONNX Runtime Web · PWA |
 | [AgriConnect](https://github.com/theoneste2060/AgriConnect) | Marketplace connecting Rwandan farmers and buyers, with location-based discovery and price comparison | React · TypeScript · Express |
 | [Crop Recommendation AI Device (CRAD)](https://github.com/theoneste2060/Crop-Recommendation-AI-Device-CRAD-) | Raspberry Pi device that recommends crops from soil nutrients and weather | Raspberry Pi · ML |
 | [CarDetectYOLO](https://github.com/theoneste2060/CarDetectYOLO) | Multi-camera YOLO vehicle detection driving NodeMCU traffic lights | YOLO · Flask · IoT |
