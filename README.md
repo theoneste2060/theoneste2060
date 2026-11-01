@@ -48,5 +48,6 @@ Live websites I've built for Rwandan businesses and professionals:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-theoneste--dev.vercel.app-0B1F33?style=for-the-badge&logo=vercel&logoColor=white)](https://theoneste-dev.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-@theoneste.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theoneste.dev/)
+[![X](https://img.shields.io/badge/X-@theonestedev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/theonestedev)
 
 Tips on SEO, AI search (GEO) and websites for businesses in Rwanda.
